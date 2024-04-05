@@ -1,0 +1,20 @@
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\bin\Debug\Juego4enLinea.exe.config
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\bin\Debug\Juego4enLinea.exe
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\bin\Debug\Juego4enLinea.pdb
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.csproj.AssemblyReference.cache
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.Form1.resources
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.Properties.Resources.resources
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.csproj.GenerateResource.cache
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.csproj.CoreCompileInputs.cache
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.exe
+D:\Universidad\Año 2024\Primer Cuatrimestre\Estructura de Datos\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.pdb
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\bin\Debug\Juego4enLinea.exe.config
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\bin\Debug\Juego4enLinea.exe
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\bin\Debug\Juego4enLinea.pdb
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.csproj.AssemblyReference.cache
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.Form1.resources
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.Properties.Resources.resources
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.csproj.GenerateResource.cache
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.csproj.CoreCompileInputs.cache
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.exe
+C:\Users\adili\Desktop\Juego4enLinea\Juego4enLinea\obj\Debug\Juego4enLinea.pdb
